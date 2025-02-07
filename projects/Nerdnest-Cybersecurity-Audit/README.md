@@ -93,11 +93,28 @@ This project outlines the steps Nerdnest can take to ensure a successful cyberse
 
 ## Project Timeline
 
-* [ ] Insert Project Timeline Here
+| Task                                   | Start Date | End Date   | Duration |
+|----------------------------------------|------------|------------|----------|
+| *Phase 1: Planning and Preparation*   |            |            |          |
+| Define Scope and Objectives           | 2025-01-27 | 2025-01-28 | 2 days   |
+| Gather Documentation                 | 2025-01-28 | 2025-01-30 | 3 days   |
+| Conduct Internal Assessments         | 2025-01-30 | 2025-02-03 | 5 days   |
+| Review Policies and Procedures        | 2025-02-03 | 2025-02-04 | 2 days   |
+| Train Employees                      | 2025-02-04 | 2025-02-05 | 2 days   |
+| Engage Qualified Auditors            | 2025-01-27 | 2025-01-28 | 2 days   |
+| *Phase 2: Audit Execution & Remediation* |            |            |          |
+| Maintain Open Communication          | 2025-01-27 | 2025-02-07 | 12 days  |
+| Support the Audit Process            | 2025-02-03 | 2025-02-07 | 5 days   |
+| Develop a Remediation Plan            | 2025-02-07 | 2025-02-07 | 1 day    |
+| Document Remediation Efforts         | 2025-02-07 | 2025-02-07 | 1 day    |
+| *Phase 3: Post-Audit Activities*   |            |            |          |
+| Review Audit Report                   | 2025-02-07 | 2025-02-07 | 1 day    |
+| Implement Remediation Plan           | 2025-02-07 | 2025-02-07 | 1 day    |
+| Continuous Improvement               | 2025-02-07 | 2025-02-07 | 1 day    |
 
 ## Project Team
 
-* [ ] List Project Team Members and Roles Here
+* [ ] Jane Doe, John Doe...
 
 ## Project Status
 
