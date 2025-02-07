@@ -101,6 +101,25 @@ This project outlines the steps Nerdnest can take to ensure a successful cyberse
 
 ## Project Status
 
+| Task                                   | Status      | Start Date | Due Date   | Assigned To | Notes                                                                   |
+|----------------------------------------|-------------|------------|------------|-------------|-------------------------------------------------------------------------|
+| *Phase 1: Planning and Preparation*   |             |            |            |             |                                                                         |
+| Define Scope and Objectives           | Complete    | 2025-01-27 | 2025-01-28 | John Doe    | Scope document finalized and approved.                                  |
+| Gather Documentation                 | Complete    | 2025-01-28 | 2025-01-30 | Jane Smith  | All documents organized in a shared drive.                               |
+| Conduct Internal Assessments         | Complete    | 2025-01-30 | 2025-02-03 | Team A      | Vulnerabilities identified and reported.                                |
+| Review Policies and Procedures        | Complete    | 2025-02-03 | 2025-02-04 | Jane Smith  | Policies updated to align with current best practices.                 |
+| Train Employees                      | Complete    | 2025-02-04 | 2025-02-05 | John Doe    | All employees completed security awareness training.                     |
+| Engage Qualified Auditors            | Complete    | 2025-01-27 | 2025-01-28 | John Doe    | Contract signed with [Auditor Name].                                    |
+| *Phase 2: Audit Execution & Remediation* |             |            |            |             |                                                                         |
+| Maintain Open Communication          | Complete    | 2025-01-27 | 2025-02-07 | John Doe    | Regular meetings held with auditors.                                     |
+| Support the Audit Process            | Complete    | 2025-02-03 | 2025-02-07 | Team A      | Provided auditors with necessary access and information.                |
+| Develop a Remediation Plan            | Complete    | 2025-02-07 | 2025-02-07 | Team A      | Remediation plan documented and prioritized.                              |
+| Document Remediation Efforts         | Complete    | 2025-02-07 | 2025-02-07 | Team A      | All remediation actions documented with evidence of completion.          |
+| *Phase 3: Post-Audit Activities*   |             |            |            |             |                                                                         |
+| Review Audit Report                   | Complete    | 2025-02-07 | 2025-02-07 | John Doe    | Report reviewed and key findings discussed.                               |
+| Implement Remediation Plan           | Complete    | 2025-02-07 | 2025-02-07 | Team A      | All high-priority vulnerabilities addressed.                             |
+| Continuous Improvement               | Complete    | 2025-02-07 | 2025-02-07 | Jane Smith  | Lessons learned documented for future audits and security improvements. |
+
 * [ ] Completed 
 
 
